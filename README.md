@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Garth 
 🌎 Background in **Earth Sciences**  
-👨‍💻 Software Engineer in **.NET, Blazor, Azure**  
+👨‍💻 Software Engineer in **.NET, Blazor WASM, Azure**  
 💻 Other experience: **React, Vue, Angular, Node, Flask, Laravel, GraphQL**  
 🤓 Currently exploring **System Design**  
 🏕️ Beyond code: 🎸 📚 🏕️ 🎨 🌯 <br/>
