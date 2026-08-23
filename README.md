@@ -4,6 +4,3 @@
 🤓 Currently exploring **System Design**  
 🏕️ Beyond code: 🎸 📚 🏕️ 🎨 🌯 <br/>
 📫 Reach me at: **garthgroshansjr@gmail.com**
-<br/>
-<sub>───────────────────────────────────────────────────</sub><br/>
-
